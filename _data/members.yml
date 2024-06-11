@@ -1,0 +1,45 @@
+pi: 
+
+  name: Shenglong Xu
+  title: Assistant Professor
+  affiliation: Department of Physics & Astronomy, Texas A&M University
+  office: MPHY 404
+  email: slxu@tamu.edu
+
+
+
+grad:
+  - name: Daniel Mandragona (Math)
+    office: BLOC 340
+    email: dandragona@tamu.edu
+  
+  - name: Mina Tarakemeh
+    office: MPHY 480
+    email: mina.tarakemeh@tamu.edu 
+
+  - name: Hanzhang Zhao
+    office: MPHY 460
+    email: hzzhao@tamu.edu
+
+
+
+
+
+undergrad:
+
+  - name: Jack Ethridge
+
+  - name: Catherine Larson
+
+  - name: Adhithya Vijayakumar
+
+alumni:
+  - name: Lakshya Agarwal (PhD)
+    job: Quant Researcher at Nomura Securities
+    thesis: "Brownian SYK models as exactly solvable models of non-equilibrium many-body quantum physics"
+
+  - name: Christopher Langlett (PhD)
+    job: Principal Transformational Physicist at Northrop Grumman
+    thesis: "Non-equilibrium dynamics and the absence of thermalization in quantum many-body systems"
+
+  
