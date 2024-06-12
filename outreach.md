@@ -37,7 +37,7 @@ imag: /assets/imag/outreach.webp
         </div>
         </div>
     </div>
-<div>The Group had so much fun to explain cool physics to the kids and parents at the Physics Festival. This year the festival attracted more than 6000 visitors!</div>
+<div>The Group had so much fun explaining cool physics to the kids and parents at the Physics Festival. This year the festival attracted more than 6000 visitors!</div>
 </div>
 
 ### Saturday Morning Physics
