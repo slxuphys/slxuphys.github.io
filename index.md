@@ -15,7 +15,7 @@ What does quantum many-body physics study? Individual fish in the school just se
 
 
 ## Group News
-- Aug 2024 Shenglong Xu is appointed as an tenure-track assistant professor.
+- Aug 2024 Shenglong is appointed as an assistant professor.
 - June 2024 Lakshya defended his thesis. Congratulation!
 - Mar 2024 Chris defended his thesis. Congratulation!
 - Apr 2023 Shenglong Xu received the research scholar award from Google.
