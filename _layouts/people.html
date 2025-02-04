@@ -61,9 +61,13 @@ layout: default
         <img src="{{ "/assets/imag/people/sx.png" | relative_url }}">
       </div> -->
       <div class="people-info">
-        <h2> {{member.name}}</h2>
-        <p>{{member.job}}</p>
-        <p><b>Thesis:</b> {{member.thesis}}</p>
+        <h2> {{ member.name }}</h2>
+        {% if member.job %}
+          <p>{{ member.job }}</p>
+        {% endif %}
+        {% if member.thesis %}
+          <p><b>Thesis:</b> {{ member.thesis }}</p>
+        {% endif %}
         <!-- <p><span style="margin-right: 20px;">Office: {{member.office}}</span> 
           <span style ="text-wrap: nowrap;">Email: {{member.email}}</span>
         </p> -->

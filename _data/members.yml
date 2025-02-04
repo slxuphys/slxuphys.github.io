@@ -9,9 +9,6 @@ pi:
 
 
 grad:
-  - name: Daniel Mandragona (Math)
-    office: BLOC 340
-    email: dandragona@tamu.edu
   
   - name: Mina Tarakemeh
     office: MPHY 480
@@ -31,7 +28,7 @@ undergrad:
 
   - name: Catherine Larson
 
-  - name: Adhithya Vijayakumar
+  - name: Andrew Pai
 
 alumni:
   - name: Lakshya Agarwal (PhD)
@@ -41,5 +38,10 @@ alumni:
   - name: Christopher Langlett (PhD)
     job: Principal Transformational Physicist at Northrop Grumman
     thesis: "Non-equilibrium dynamics and the absence of thermalization in quantum many-body systems"
+
+  - name: Daniel Mandragona (Master)
+
+  - name: Adhithya Vijayakumar (Undergrad)
+    
 
   
